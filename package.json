@@ -1,0 +1,13 @@
+{
+  "name": "ohh",
+  "version": "1.0.0",
+  "description": "Ohh...  multiway object binder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
