@@ -3,7 +3,7 @@ Ohh...  multiway object binder.
 Bind an object P2P, P2S and S2S.
 
 
-```javascript
+```
 var OHH = 
     (o1)=>{
     var out = [];
