@@ -4,7 +4,6 @@ Bind an object P2P, P2S and S2S.
 
 
 ```javascript
-
 var OHH = 
     (o1)=>{
     var out = [];
@@ -34,5 +33,4 @@ var OHH =
 OHH("x")("Y")({z:true})(4)
 OHH("D")("_")
 console.log(OHH.out())
-
 ```
